@@ -11,3 +11,5 @@
 ## Various
 
 [**Peg**](https://pegjs.org/) - simple parser generator with error reporting `[parser]`
+
+[**DayJs**](https://github.com/iamkun/dayjs) - minimalist library that parses, validates, manipulates and displays dates and times
