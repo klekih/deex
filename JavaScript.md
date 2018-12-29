@@ -8,6 +8,10 @@
 
 [**Rollup**](https://rollupjs.org) - module bundler `[bundler]`
 
+## AI/ML
+
+[**Brain.js**](https://github.com/BrainJS/brain.js) - Neural networks `[AI]` `[ML]` `[neural networks]`
+
 ## Various
 
 [**Peg**](https://pegjs.org/) - simple parser generator with error reporting `[parser]`
