@@ -12,6 +12,8 @@
 
 [**Brain.js**](https://github.com/BrainJS/brain.js) - Neural networks `[AI]` `[ML]` `[neural networks]`
 
+[****](http://docs.sequelizejs.com/) - A promise-based ORM for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite and MSSQL `[ORM]`
+
 ## Various
 
 [**Peg**](https://pegjs.org/) - simple parser generator with error reporting `[parser]`
