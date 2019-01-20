@@ -11,3 +11,9 @@
 [**Tantivy**](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust `[full-text-search]`
 
 [**Toshi**](https://github.com/toshi-search/Toshi) - A Full Text Search Engine in Rust Based on Tantivy `[full-text-search]`
+
+#### GUI Clients
+
+[**Sequel Pro**](https://www.sequelpro.com/)
+
+[**Heidi SQL**](https://www.heidisql.com/)
