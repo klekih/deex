@@ -10,3 +10,5 @@
 [**Http Router**](https://github.com/julienschmidt/httprouter) `[httprouter]`
 
 [**Moq**](https://github.com/matryer/moq) - Interface mocking tool `[test]`
+
+[**Goose**](https://bitbucket.org/liamstask/goose) - Database migration tool `[database]`
